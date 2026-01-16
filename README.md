@@ -1,4 +1,4 @@
-<h1 align="center"> Hi, I'm Berfin 👋! </h1>
+<h1 align="center"> Hi, I'm Asrın 👋! </h1>
 <p align="center">
   <i>A passionate developer with a background in robotics, AI, and instructional technologies.</i><br/>
   🎓 Computer Education & Instructional Technologies graduate from <b>METU</b> (GPA: 3.56)
@@ -25,7 +25,7 @@
 
 #### ⚙️ Tools & Technologies
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![Fusion 360](https://img.shields.io/badge/Fusion%20360-orange)
+![Fusion 360](https://img.shields.io/badge/Fusion%20360-%23F36C14?style=flat&logoImage=https://upload.wikimedia.org/wikipedia/commons/0/0a/Autodesk_Fusion_360_logo.svg)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C?style=flat&logo=PyTorch&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
